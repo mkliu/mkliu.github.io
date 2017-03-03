@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on Fredrik Loch </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Posts on Universal</title>
     <link>/post/index.xml</link>
+    <description>Recent content in Posts on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
       <link>/post/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/welcome/</guid>
       <description>&lt;p&gt;fdsfdfdffsfldsflj
