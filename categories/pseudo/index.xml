@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pseudo on Universal</title>
+    <title>Pseudo on 微群日历</title>
     <link>/categories/pseudo/index.xml</link>
-    <description>Recent content in Pseudo on Universal</description>
+    <description>Recent content in Pseudo on 微群日历</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2017, 微群日历</copyright>
     <atom:link href="/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
